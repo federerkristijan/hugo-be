@@ -7,6 +7,8 @@ cover:
     image: img/ben2.jpg
     alt: "Ben"
     caption: "this is caption"
+tags: ["html", "css"]
+categories: ["tea", "china", "acupucture", "narative therapy"]
 ---
 
 ## Something
